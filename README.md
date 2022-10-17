@@ -23,6 +23,6 @@ The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
 
-Repository Link: https://github.com/alirudnick/The-Horiseon_AR_CH1.git
+Repository Link: https://github.com/alirudnick/Horiseon_Rudnick_Ch1
 
-Link to Live: http://127.0.0.1:3000/The-Horiseon_AR_CH1/index.html
+Link to Live: http://127.0.0.1:3000/Horiseon_Rudnick_Ch1/index.html
